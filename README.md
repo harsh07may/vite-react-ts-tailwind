@@ -1,7 +1,9 @@
 # React + TypeScript + Vite + TailwindCSS Template
 
-This template provides a setup to get React working in Vite,
-It provides `tailwindCSS` for styling, `axios` for Data Fetching, `react-router-dom` for routing along with `Typescript` and some `ESLint` rules. This folder is responsible for the frontend of the application.
+![Vite](./src/assets/icons/react.svg) ![Vite](./public/vite.svg) 
+
+This template provides a setup to get React working in Vite.
+It comes with `tailwindCSS` for styling, `axios` for Data Fetching, `react-router-dom` for routing along with `Typescript` and some `ESLint` rules. This folder is responsible for the frontend of the application.
 
 Folder Structure:
 ```bash
