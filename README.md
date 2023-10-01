@@ -3,6 +3,22 @@
 This template provides a setup to get React working in Vite,
 It provides `tailwindCSS` for styling, `axios` for Data Fetching, `react-router-dom` for routing along with `Typescript` and some `ESLint` rules. This folder is responsible for the frontend of the application.
 
+Folder Structure:
+```bash
+├─public
+└─src
+    ├──assets
+    │  ├──icons
+    │  └──images
+    ├──components
+    ├──data
+    ├──features
+    ├──hooks
+    ├──pages
+    ├──types
+    └──utils
+```
+
 To install the required dependencies, run:
 
 ```bash
