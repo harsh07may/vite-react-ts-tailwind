@@ -92,7 +92,11 @@ function App() {
       </main>
       <div className="fixed bottom-5 left-5">
         <p className="inline">Created by </p>
-        <a className="hover:underline" href="https://github.com/harsh07may">
+        <a
+          className="hover:underline"
+          target="_blank"
+          href="https://github.com/harsh07may"
+        >
           harsh07may
         </a>
       </div>
